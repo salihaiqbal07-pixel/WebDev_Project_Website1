@@ -1,6 +1,11 @@
 body {
     background-color: rgb(173, 173, 236);
-    color:rgb(185, 238, 238);
+    color:rgb(15, 5, 110);
     font-family: Arial, sans-serif;
     margin: 20px;
+}
+
+title {
+    color: rgb(15, 5, 110);
+
 }
