@@ -22,6 +22,7 @@ p {
     font-size: 18px;
     text-align: center;
     line-height: 1.6;
+    font-family: "Lucida Console", "Courier New", monospace;
     margin: 20px 0;
 }
 
@@ -32,10 +33,24 @@ footer{
     padding: 10px;
 }
 
+hr {
+    border: 1px solid rgb(14, 121, 139);
+    margin: 20px 0;
+}
+
 .FordMustang{
     width: 100%;
     max-width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.CarBox{
+    border: 2px solid rgb(14, 121, 139);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: lightgrey;
+    text-align: center;
 }
