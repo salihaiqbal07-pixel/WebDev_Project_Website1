@@ -13,6 +13,7 @@ h1 {
 
 nav ul {
     list-style-type: none;
+    background-color: rgb(14, 121, 139);
     padding: 0;
     text-align: center;
 }
