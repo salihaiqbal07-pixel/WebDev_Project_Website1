@@ -1,19 +1,19 @@
 body {
-    background-color: rgb(173, 173, 236);
-    color:rgb(15, 5, 110);
+    background-color: lightblue;
+    color:darkblue;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 
 h1 {
-    color: rgb(15, 5, 110);
+    color: darkblue;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
 }
 
 nav ul {
     list-style-type: none;
-    background-color: rgb(14, 121, 139);
+    background-color: blue;
     padding: 10px;
     text-align: center;
 }
@@ -29,12 +29,12 @@ p {
 footer{
     text-align: center;
     margin-top: 20px;
-    background-color: rgb(14, 121, 139);
+    background-color: blue;
     padding: 10px;
 }
 
 hr {
-    border: 1px solid rgb(14, 121, 139);
+    border: 1px solid darkblue;
     margin: 20px 0;
 }
 
